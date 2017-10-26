@@ -13,6 +13,7 @@
 		6AB81E3F1F9638F3001A4199 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AB81E3E1F9638F3001A4199 /* Assets.xcassets */; };
 		6AB81E421F9638F3001A4199 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AB81E401F9638F3001A4199 /* LaunchScreen.storyboard */; };
 		6AE5F3C61FA11AC0003BF73B /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5F3C51FA11AC0003BF73B /* Color.swift */; };
+		6AE6FC8B1FA273F200EB5CDC /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE6FC8A1FA273F200EB5CDC /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6AB81E411F9638F3001A4199 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6AB81E431F9638F3001A4199 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6AE5F3C51FA11AC0003BF73B /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		6AE6FC8A1FA273F200EB5CDC /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6AB81E401F9638F3001A4199 /* LaunchScreen.storyboard */,
 				6AB81E431F9638F3001A4199 /* Info.plist */,
 				6AE5F3C51FA11AC0003BF73B /* Color.swift */,
+				6AE6FC8A1FA273F200EB5CDC /* ColorDetailViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				6AA616BD1F97B2B60089FCF3 /* ColorsViewController.swift in Sources */,
 				6AB81E381F9638F3001A4199 /* AppDelegate.swift in Sources */,
 				6AE5F3C61FA11AC0003BF73B /* Color.swift in Sources */,
+				6AE6FC8B1FA273F200EB5CDC /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
